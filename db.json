@@ -1,5 +1,5 @@
 {
-  "flags": [
+   "flags": [
 {
     "id": 1,
     "name": "United States",
@@ -40,13 +40,13 @@
     "id": 7,
     "name": "Ireland",
     "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg",
-    "British"
+    "lang": "British"
   },
   {
     "id": 8,
     "name": "Nederland",
     "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg",
-    "Noordze"
+    "lang":  "Noordze"
   },
   {
     "id": 9,
@@ -119,14 +119,14 @@
     "name": "Magyarorszag",
     "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg",
     "lang": "Hungarian"
-  },
+  },  
   {
     "id": 21,
     "name": "Azerbaijan",
     "img_svg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1280px-Flag_of_Azerbaijan.svg.png",
     "lang": "Azerbaijani"
   }
-  ],
+],
   
   "products": [
     {
