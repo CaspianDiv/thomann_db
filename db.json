@@ -1,27 +1,6 @@
 {
 
-   "flags": [
-    {"id": 1, "name": "us", "img_svg": "https://fast-images.static-thomann.de/pics/images/common/flags/us.svg"},
-    {"id": 2, "name": "de", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/de.svg"},
-    {"id": 3, "name": "gb", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg"},
-    {"id": 4, "name": "fi", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fi.svg"},
-    {"id": 5, "name": "at", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/at.svg"},
-    {"id": 6, "name": "se", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/se.svg"},
-    {"id": 7, "name": "ie", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg"},
-    {"id": 8, "name": "nl", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg"},
-    {"id": 9, "name": "it", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/it.svg"},
-    {"id": 10, "name": "fr", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fr.svg"},
-    {"id": 11, "name": "pt", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pt.svg"},
-    {"id": 12, "name": "es", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/es.svg"},
-    {"id": 13, "name": "dk", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/dk.svg"},
-    {"id": 14, "name": "gr", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gr.svg"},
-    {"id": 15, "name": "be", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/be.svg"},
-    {"id": 16, "name": "lu", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/lu.svg"},
-    {"id": 17, "name": "pl", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pl.svg"},
-    {"id": 18, "name": "cz", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg"},
-    {"id": 19, "name": "ro", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg"},
-    {"id": 20, "name": "hu", "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg"}
-  ],
+
   "products": [
     {
       "id": 1,
