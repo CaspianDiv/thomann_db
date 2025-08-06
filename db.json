@@ -20,7 +20,7 @@
     {id: 18, name: "cz", img_svg: "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg"},
     {id: 19, name: "ro", img_svg: "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg"},
     {id: 20, name: "hu", img_svg: "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg"}
-  ]
+  ],
   "products": [
     {
       "id": 1,
