@@ -3,107 +3,128 @@
 {
     "id": 1,
     "name": "United States",
-    "img_svg": "https://fast-images.static-thomann.de/pics/images/common/flags/us.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics/images/common/flags/us.svg",
+    "lang": "English"
   },
   {
     "id": 2,
     "name": "Deutchland",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/de.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/de.svg",
+    "lang": "Germany"
   },
   {
     "id": 3,
     "name": "United Kingdom",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg",
+    "lang": "Europe"
   },
   {
     "id": 4,
     "name": "Suomi",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fi.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fi.svg",
+    "lang": "Finland"
   },
   {
     "id": 5,
     "name": "Österreich",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/at.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/at.svg",
+    "lang": "Austria"
   },
   {
     "id": 6,
     "name": "Svergie",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/se.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/se.svg",
+    "lang": "Sweden"
   },
   {
     "id": 7,
-    "name": "ie",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg"
+    "name": "Ireland",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg",
+    "British"
   },
   {
     "id": 8,
     "name": "Nederland",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg",
+    "Noordze"
   },
   {
     "id": 9,
     "name": "Italia",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/it.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/it.svg",
+    "lang": "Italian"
   },
   {
     "id": 10,
     "name": "France",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fr.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fr.svg",
+    "lang": "French"
   },
   {
     "id": 11,
     "name": "Portugal",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pt.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pt.svg",
+    "lang": "Portuguese "
   },
   {
     "id": 12,
     "name": "Espana",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/es.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/es.svg",
+    "lang": "Spain"
   },
   {
     "id": 13,
     "name": "Danmark",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/dk.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/dk.svg",
+    "lang": "Danish"
   },
   {
     "id": 14,
     "name": "Ellada",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gr.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gr.svg",
+    "lang": "Greece"
   },
   {
     "id": 15,
     "name": "Belgium",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/be.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/be.svg",
+    "lang": "Dutch"
   },
   {
     "id": 16,
     "name": "Luexmbourg",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/lu.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/lu.svg",
+    "lang": "Luxembourgish"
   },
   {
     "id": 17,
     "name": "Polska",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pl.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pl.svg",
+    "lang": "Poland"
   },
   {
     "id": 18,
     "name": "Cesko",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg",
+    "lang": "Czech"
   },
   {
     "id": 19,
     "name": "Romana",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg",
+    "lang": "Romanian"
   },
   {
     "id": 20,
     "name": "Magyarorszag",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg"
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg",
+    "lang": "Hungarian"
   },
   {
     "id": 21,
     "name": "Azerbaijan",
-    "img_svg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1280px-Flag_of_Azerbaijan.svg.png"
+    "img_svg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1280px-Flag_of_Azerbaijan.svg.png",
+    "lang": "Azerbaijani"
   }
   ],
   
