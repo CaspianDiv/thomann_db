@@ -1,107 +1,143 @@
-
 {
   "flags": [
 {
     "id": 1,
-    "name": "us",
-    "img_svg": "https://fast-images.static-thomann.de/pics/images/common/flags/us.svg"
+    "name": "United States",
+    "img_svg": "https://fast-images.static-thomann.de/pics/images/common/flags/us.svg",
+    "lang": "English",
+    "currency": "USD · $ · US dollar"
   },
   {
     "id": 2,
-    "name": "de",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/de.svg"
+    "name": "Deutchland",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/de.svg",
+    "lang": "Germany",
+    "currency": "EUR · € · Euro"
   },
   {
     "id": 3,
-    "name": "gb",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg"
+    "name": "United Kingdom",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg",
+    "lang": "Europe",
+    "currency": "GBP · £ · British pound"
   },
   {
     "id": 4,
-    "name": "fi",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fi.svg"
+    "name": "Suomi",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fi.svg",
+    "lang": "Finland"
   },
   {
     "id": 5,
-    "name": "at",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/at.svg"
+    "name": "Österreich",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/at.svg",
+    "lang": "Austria",
+    "currency": "AUD · $ · Australia, Dollars"
   },
   {
     "id": 6,
-    "name": "se",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/se.svg"
+    "name": "Svergie",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/se.svg",
+    "lang": "Sweden",
+    "currency": "SEK · Swedish krona"
   },
   {
     "id": 7,
-    "name": "ie",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg"
+    "name": "Ireland",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ie.svg",
+    "lang": "British"
   },
   {
     "id": 8,
-    "name": "nl",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg"
+    "name": "Nederland",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/nl.svg",
+    "lang":  "Noordze"
   },
   {
     "id": 9,
-    "name": "it",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/it.svg"
+    "name": "Italia",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/it.svg",
+    "lang": "Italian"
   },
   {
     "id": 10,
-    "name": "fr",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fr.svg"
+    "name": "France",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/fr.svg",
+    "lang": "French"
   },
   {
     "id": 11,
-    "name": "pt",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pt.svg"
+    "name": "Portugal",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pt.svg",
+    "lang": "Portuguese "
   },
   {
     "id": 12,
-    "name": "es",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/es.svg"
+    "name": "Espana",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/es.svg",
+    "lang": "Spain"
   },
   {
     "id": 13,
-    "name": "dk",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/dk.svg"
+    "name": "Denmark",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/dk.svg",
+    "lang": "Danish",
+    "currency": "DKK · kr · Danish krone"
   },
   {
     "id": 14,
-    "name": "gr",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gr.svg"
+    "name": "Ellada",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/gr.svg",
+    "lang": "Greece"
   },
   {
     "id": 15,
-    "name": "be",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/be.svg"
+    "name": "Belgium",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/be.svg",
+    "lang": "Dutch"
   },
   {
     "id": 16,
-    "name": "lu",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/lu.svg"
+    "name": "Luexmbourg",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/lu.svg",
+    "lang": "Luxembourgis"
   },
   {
     "id": 17,
-    "name": "pl",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pl.svg"
+    "name": "Polska",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/pl.svg",
+    "lang": "Poland",
+    "currency": "PLN · zł · Polish złoty"
   },
   {
     "id": 18,
-    "name": "cz",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg"
+    "name": "Cesko",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/cz.svg",
+    "lang": "Czech",
+    "currency": "CZK · Kč · Czech koruna"
   },
   {
     "id": 19,
-    "name": "ro",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg"
+    "name": "Romana",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/ro.svg",
+    "lang": "Romanian",
+    "currency": "RON · lei · Romanian leu"
   },
   {
     "id": 20,
-    "name": "hu",
-    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg"
+    "name": "Magyarorszag",
+    "img_svg": "https://fast-images.static-thomann.de/pics//images/common/flags/hu.svg",
+    "lang": "Hungarian",
+    "currency": "HUF · ft · Hungary, Forint"
+  },  
+  {
+    "id": 21,
+    "name": "Azerbaijan",
+    "img_svg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1280px-Flag_of_Azerbaijan.svg.png",
+    "lang": "Azerbaijani",
+    "currency": "AZN · azn · Azərbaycan, Manat"
   }
-  ],
+],
   
   "products": [
     {
@@ -3629,4 +3665,3 @@
       "thumb_img_6": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_61/610095/20075389_800.jpg"
     }
   ]}
-
