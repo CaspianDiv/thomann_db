@@ -1,3 +1,4 @@
+
 {
   "ownWordSlider": [
     {
@@ -1728,7 +1729,7 @@
       "brand": "QSC",
       "price": 1.111,
       "currency": "USD",
-      "curency_symbl": "$",
+      "currency_symbl": "$",
       "description": "12-inch 2000W powered PA speaker",
       "characterics": { 
         "avaliableSince": "April 2018",
@@ -3342,6 +3343,7 @@
       "brand": "Korg",
       "price": 27,
       "currency": "USD",
+      "currency_symbl": "$",
       "description": "Combined tuner and metronome with large display",
       "characterics": { 
           "avaliableSince": "March 2024",
